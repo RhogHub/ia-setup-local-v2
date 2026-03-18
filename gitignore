@@ -1,0 +1,14 @@
+data/
+notes.md
+node_modules/
+dist/
+build/
+*.log
+.DS_Store
+.env
+.vscode/
+.idea/
+*.bak
+*.tmp
+*.swp
+*.swo
